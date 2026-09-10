@@ -1,0 +1,19 @@
+# Зависимости
+node_modules/
+
+# Сборка (не загружаем, собираем на GitHub)
+dist/
+
+# Локальные файлы
+.DS_Store
+*.log
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.next/
+build/
